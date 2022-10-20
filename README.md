@@ -1,5 +1,8 @@
 ### Olá! Eu sou sou a Hosana 👋
 
+Desenvolvedora Full Stack em construção, artesã autônoma desde pequena. Há 10 anos participo do Grupo Afro Irmãos do Quilombo e Pastoral Afro Trespontana, trabalhando com assuntos como diversidade, intolerância religiosa e cultura afro. Chegou a pandemia e com ela a Consultoria de Beleza, que trouxe o amor pelo cuidado e a oportunidade de cursar Estética. Nesse contexto encontro a Trybe e vejo meus olhos brilharem no "Hello world". Agora estou desbravando o mundo do Back End com Docker, SQL, Node.js, Arquitetura MSC e Typescript, depois de conhecer a programação através do JavaScript, HTML, CSS, React, Redux, RTL, Context API e React Hooks, além de Hard Skills, estou em constante apredizagem em Soft Skills. Arteira, gateira e andeja resumem bem meus hobbies..
+Bem vindo a um pedacinho da minha história. 
+
 <div align="center">
   <a href="https://github.com/hosanavm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosanavm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
